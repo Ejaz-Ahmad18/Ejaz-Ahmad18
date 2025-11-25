@@ -1,26 +1,103 @@
-![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg)
-<h1 align="center">Hi, I'm Ejaz Ahmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966>
+<!-- Profile Header -->
+<h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
+<h3 align="center">💻 Full Stack Web Developer | 🧠 Frontended Developer | 📈 Frontend Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" alt="ejaz-ahmad18" /> </p>
-
-- 🔭 I’m currently working on **Portfolio**
-
-- 🔭 I’m currently working on **Destiway Travels**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ejaz-ahmad-1599112b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ejaz-ahmad-1599112b9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ejaz-ahmad-1599112b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ejaz-ahmad-1599112b9/" height="30" width="40" /></a>
-<a href="https://instagram.com/authenticejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="authenticejaz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F75FE&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;3%2B+Years+of+Real+World+Experience;Expert+in+WordPress+%26+MERN+Stack;SEO+Specialist+%7C+Client+Focused+%7C+Fast+Delivery" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
+### 🙋‍♂️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="ejaz-ahmad18" /></p>
+- 🔭 I’m building real-world projects using **Html**, **Css**, **JavaScript**, and **React**
+- 🧠 I have 3+ months of experience in **client work**, **SEO**, and **custom theme/plugin customization**
+- 👨‍💼 Helping agencies and businesses **scale their online presence**
+- 🌐 Visit my website → [**www.ejazahmad.in**](https://www.ejazahmad.in)
+- ✉️ Reach me anytime → **ejazahmadbh18@gmail.com**
+- 💬 Fun to work with and fast to deliver ⚡
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" /></p>
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,wordpress,python,tailwind,vscode,git,github,postman" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/MalikOwaisDev/modb-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=modb-app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/MalikOwaisDev/KhaataBook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=KhaataBook&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/MalikOwaisDev/nexuschat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=nexuschat&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikOwaisDev&show_icons=true&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MalikOwaisDev&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikOwaisDev&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MalikOwaisDev&theme=darkhub&no-frame=true&column=8" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/malikowaisdev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_malakowais/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/MalikOwaisDev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:hello@malikowais.dev"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Certifications & Expertise
+
+- 🥇 Courses completed Frontend and Backend Domination **(Sheryians Coding School)**
+- 📦 Skilled in building **scalable CMS**, **AI-integrated apps**, and **e-commerce platforms**
+- 🎓 Certified WordPress Designer (WsCube Tech)
+- 🥇 Certified SEO Professional
+- ⚙️ Dev Tools: VS Code, Cursor, Git, Postman 
+
+---
+
+### ⚡ Fun Facts
+
+```bash
+🧃 Favourite Stack: MERN  💥
+💻 Always coding, even in my dreams 😴
+🧩 Love breaking down big problems into small wins
+🌱 Currently learning: Advanced Socket.io & Real-time systems
+```
+---
+## 📬 Let’s Collaborate
+
+If you’re looking for someone to build, scale, or optimize your next project or startup —  
+I’m open to freelance work and collaborations.
+
+📩 **Drop a message** → [ejazahmadbh18@gmail.com](ejazahmadbh18@gmail.com)
+
+📎 **Portfolio** → []()
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
