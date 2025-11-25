@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<!--![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg)-->
+![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg)
 <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
 <h3 align="center">💻 Full Stack Web Developer | 🧠 Frontended Developer | 📈 Frontend Specialist</h3>
 
@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,wordpress,python,tailwind,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github" />
 </p>
 
 ---
