@@ -18,7 +18,7 @@
 - 🌐 Visit my website → [**www.ejazahmad.in**](https://www.ejazahmad.in)
 - ✉️ Reach me anytime → **ejazahmadbh18@gmail.com**
 - 💬 Fun to work with and fast to deliver ⚡
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 ---
 
 ### 🧰 Tech Stack
@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github" />
 </p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 ---
 
 ### 📌 Pinned Projects
@@ -42,7 +42,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=nexuschat&theme=tokyonight" />
   </a>
 </p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 ---
 
 
@@ -54,7 +54,7 @@
   <a href="https://www.facebook.com/iam.ejazahmad"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="ejazahmadbh18@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 ---
 
 ### 🧠 Certifications & Expertise
@@ -64,7 +64,7 @@
 - 🎓 Certified WordPress Designer (WsCube Tech)
 - 🥇 Certified SEO Professional
 - ⚙️ Dev Tools: VS Code, Cursor, Git, Github 
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 ---
 
 ### ⚡ Fun Facts
