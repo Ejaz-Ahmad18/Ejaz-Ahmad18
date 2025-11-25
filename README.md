@@ -45,13 +45,7 @@
 
 ---
 
-### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalikOwaisDev&show_icons=true&theme=radical&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MalikOwaisDev&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikOwaisDev&layout=compact&theme=radical" />
-</p>
 
 ---
 
