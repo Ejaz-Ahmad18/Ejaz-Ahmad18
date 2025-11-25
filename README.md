@@ -13,7 +13,7 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 I’m building real-world projects using **Html**, **Css**, **JavaScript**, and **React**
-- 🧠 I have 3+ months of experience in **client work**, **SEO**, and **custom theme/plugin customization**
+<!-- - 🧠 I have 3+ months of experience in **client work**, **SEO**, and **custom theme/plugin customization**-->
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
 - 🌐 Visit my website → [**www.ejazahmad.in**](https://www.ejazahmad.in)
 - ✉️ Reach me anytime → **ejazahmadbh18@gmail.com**
@@ -49,10 +49,10 @@
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malikowaisdev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_malakowais/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/MalikOwaisDev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:hello@malikowais.dev"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ejaz-ahmad18/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/authenticejaz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/iam.ejazahmad"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="ejazahmadbh18@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 - 📦 Skilled in building **scalable CMS**, **AI-integrated apps**, and **e-commerce platforms**
 - 🎓 Certified WordPress Designer (WsCube Tech)
 - 🥇 Certified SEO Professional
-- ⚙️ Dev Tools: VS Code, Cursor, Git, Postman 
+- ⚙️ Dev Tools: VS Code, Cursor, Git, Github 
 
 ---
 
