@@ -46,17 +46,6 @@
 ---
 
 
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalikOwaisDev&theme=darkhub&no-frame=true&column=8" />
-</p>
-
----
-
 ### 🌍 Let's Connect
 
 <p align="center">
