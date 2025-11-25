@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg)
 <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
 <h3 align="center">💻 Full Stack Web Developer | 🧠 Frontended Developer | 📈 Frontend Specialist</h3>
 
