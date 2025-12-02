@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg)
+<!-- ![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg) -->
 <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
 <h3 align="center">💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist</h3>
 
@@ -29,14 +29,14 @@
 
 ---
 
-## 🧰 Backend Tech
+<!--## 🧰 Backend Tech
 <div align="center" style="display:flex; gap:18px; padding:15px 20px; background: rgba(255,255,255,0.06); border-radius:0px; backdrop-filter: blur(12px); border:1px solid rgba(255,255,255,0.15); justify-content:center;">
   <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=nodejs&theme=dark&size=38" />
   <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=express&theme=dark&size=38" />
   <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=mongodb&theme=dark&size=38" />
-</div>
+</div> 
 
----
+--- -->
 
 ## 🧰 Tools
 <div align="center" style="display:flex; gap:18px; padding:15px 20px; background: rgba(255,255,255,0.06); border-radius:0px; backdrop-filter: blur(12px); border:1px solid rgba(255,255,255,0.15); justify-content:center;">
@@ -48,34 +48,25 @@
 ---
 
 ## 🌍 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ejaz-ahmad18/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/authenticejaz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/iam.ejazahmad"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:ejazahmadbh18@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejaz-ahmad18/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/authenticejaz/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejazahmadbh18@gmail.com)
+
 
 ---
 
-## 📊 GitHub Analytics (Inline)
-<div align="center" style="display:flex; gap:18px; padding:15px 20px; background: rgba(255,255,255,0.06); border-radius:0px; backdrop-filter: blur(12px); border:1px solid rgba(255,255,255,0.15); justify-content:center;">
-  <img style="height:45px; object-fit:contain;" src="https://streak-stats.demolab.com/?user=ejazahmad18&theme=tokyonight&hide_border=false" />
-  <img style="height:45px; object-fit:contain;" src="https://github-readme-stats.vercel.app/api?username=ejazahmad18&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img style="height:45px; object-fit:contain;" src="https://github-readme-activity-graph.vercel.app/graph?username=ejazahmad18&theme=tokyo-night&hide_border=true" />
-</div>
-
----
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/MalikOwaisDev/modb-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=modb-app&theme=tokyonight" />
+  <a href="https://github.com/Ejaz-Ahmad18/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=modb-app&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalikOwaisDev/KhaataBook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=KhaataBook&theme=tokyonight" />
+  <a href="https://github.com/Ejaz-Ahmad18/Mini-Reels-Making">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=KhaataBook&theme=tokyonight" />
   </a>
-  <a href="https://github.com/MalikOwaisDev/nexuschat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MalikOwaisDev&repo=nexuschat&theme=tokyonight" />
+  <a href="https://github.com/Ejaz-Ahmad18/JavaScript-Practice-question">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=nexuschat&theme=tokyonight" />
   </a>
 </p>
 
@@ -97,6 +88,8 @@
 🧩 Love breaking down big problems into small wins  
 🌱 Currently learning: Advanced Socket.io & Real-time systems  
 ```
+## 📊 GitHub Analytics
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejaz-Ahmad-18&show_icons=true&locale=en&layout=compact" alt="Ejaz-Ahmad-18" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ejaz-Ahmad-18&show_icons=true&locale=en" alt="Ejaz-Ahmad-18" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-Ahmad-18&" alt="Ejaz-Ahmad-18" /></p>
 
 ---
 
@@ -112,6 +105,3 @@ I'm open to freelance work and collaborations.
 </p>
 
 ---
-
-
-
