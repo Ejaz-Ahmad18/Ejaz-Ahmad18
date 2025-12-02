@@ -18,7 +18,7 @@
 
 ---
 
-## 🧰 Frontend Tech
+### 🧰 Frontend Tech
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -38,7 +38,7 @@
 
 --- -->
 
-## 🧰 Tools
+### 🧰 Tools
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌍 Connect with Me
+### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejaz-ahmad18/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/authenticejaz/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
@@ -87,12 +87,14 @@
 🧩 Love breaking down big problems into small wins  
 🌱 Currently learning: Advanced Socket.io & Real-time systems  
 ```
-## 📊 GitHub Analytics
+---
+
+### 📊 GitHub Analytics
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejaz-Ahmad-18&show_icons=true&locale=en&layout=compact" alt="Ejaz-Ahmad-18" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ejaz-Ahmad-18&show_icons=true&locale=en" alt="Ejaz-Ahmad-18" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ejaz-Ahmad-18&" alt="Ejaz-Ahmad-18" /></p>
 
 ---
 
-## 📬 Let's Collaborate
+### 📬 Let's Collaborate
 If you're looking for someone to build, scale, or optimize your next project or startup —  
 I'm open to freelance work and collaborations.
 
@@ -103,4 +105,4 @@ I'm open to freelance work and collaborations.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
----
+
