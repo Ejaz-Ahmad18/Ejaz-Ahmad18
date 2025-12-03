@@ -56,7 +56,7 @@
 ---
 
 
-### 📌 Pinned Projects
+<!--### 📌 Pinned Projects
 <p align="left">
   <a href="https://github.com/ejaz-ahmad18/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=Portfolio&theme=tokyonight" />
@@ -69,7 +69,7 @@
   </a>
 </p>
 
----
+--- -->
 
 ### 🧠 Certifications & Expertise
 - 🥇 Courses completed Frontend & Backend Domination — Sheryians Coding School  
