@@ -59,13 +59,13 @@
 ### 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/Ejaz-Ahmad18/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=modb-app&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=Portfolio&theme=tokyonight" />
   </a>
   <a href="https://github.com/Ejaz-Ahmad18/Mini-Reels-Making">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=KhaataBook&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=Mini-Reels-Making&theme=tokyonight" />
   </a>
   <a href="https://github.com/Ejaz-Ahmad18/JavaScript-Practice-question">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=nexuschat&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ejaz-Ahmad18&repo=JavaScript-Practice-question&theme=tokyonight" />
   </a>
 </p>
 
