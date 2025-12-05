@@ -8,8 +8,8 @@
 </p>
 
 ---
-
-### 🙋‍♂️ About Me
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" alt="ejaz-ahmad18" /> </p>
+🙋‍♂️ About Me 
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
 - 🌐 Visit my website → **[www.ejazahmad.in](https://www.ejazahmad.in)**
@@ -92,20 +92,25 @@
 ### 📊 GitHub Analytics
 
 ##
- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Fetching" /></p>
-
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p> 
-
-
-<p align="left">
-  <!-- Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="GitHub Stats" />
+<!-- Top Languages Card (Left) -->
+<p align="center">
+  <img 
+    align="center" 
+    src="https://ejaz-ahmad06.vercel.app/api/top-langs/?username=ejaz-ahmad18&layout=compact&show_icons=true&locale=en" 
+    alt="Top Languages" 
+  />
 </p>
 
-<p align="right">
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<!-- GitHub Stats Card (Right) -->
+<p align="center">
+  <img 
+    align="center" 
+    src="https://ejaz-ahmad06.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" 
+    alt="GitHub Stats" 
+  />
 </p>
+
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="Fetching" /></p> 
 
