@@ -99,23 +99,7 @@
 ### 📊 GitHub Analytics
 
 ##
-<!-- Top Languages Card (Left) -->
-<p align="center">
-  <img 
-    align="center" 
-    src="https://ejaz-ahmad06.vercel.app/api/top-langs/?username=ejaz-ahmad18&layout=compact&show_icons=true&locale=en" 
-    alt="Top Languages" 
-  />
-</p>
 
-<!-- GitHub Stats Card (Right) -->
-<p align="center">
-  <img 
-    align="center" 
-    src="https://ejaz-ahmad06.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" 
-    alt="GitHub Stats" 
-  />
-</p>
 
 
 
