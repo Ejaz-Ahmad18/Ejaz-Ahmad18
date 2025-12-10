@@ -97,14 +97,15 @@
 ---
 
 ### 📊 GitHub Analytics
-
 ##
+<p align="left"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="Fetching" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="ejaz-ahmad18" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="Fetching" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" /></p>
+
 
 ---
 
