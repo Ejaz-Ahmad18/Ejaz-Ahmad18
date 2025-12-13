@@ -26,9 +26,7 @@
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></p>
 
 ---
 
@@ -47,10 +45,7 @@
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
 ---
 
 ### 🌍 Connect with Me
@@ -58,8 +53,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/authenticejaz/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejazahmadbh18@gmail.com)
-
-
 ---
 
 
@@ -84,7 +77,6 @@
 - 🎓 Certified WordPress Designer — WsCube Tech  
 - 🥇 Certified SEO Professional  
 - ⚙️ Dev Tools: VS Code, Cursor, Git, Github  
-
 ---
 
 ### ⚡ Fun Facts
@@ -99,14 +91,8 @@
 ### 📊 GitHub Analytics
 ##
 
-<p align="left">&nbsp;<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p> 
-<p align="center"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
-
-
-
-
-
+<p align="left">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
 
 ---
 
@@ -117,8 +103,6 @@ I'm open to freelance work and collaborations.
 📩 **Drop a message** → ejazahmadbh18@gmail.com  
 📎 **Portfolio** → www.ejazahmad.in
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
 
 
