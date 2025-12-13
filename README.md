@@ -101,7 +101,7 @@
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" />
 <!-- <p align="right"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejaz-ahmad18&theme=default&layout=compact"alt="ejaz-ahmad18"/></p> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ejaz-ahmad18&show_icons=true&locale=en" alt="Fetching" /></p> 
 <p align="center"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
 
 
