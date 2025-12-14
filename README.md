@@ -46,6 +46,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) -->
 
 <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
+
+
 ---
 
 ### 🌍 Connect with Me
@@ -92,7 +94,7 @@
 ##
 
 <p align="left">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" /></p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
 
 ---
 
