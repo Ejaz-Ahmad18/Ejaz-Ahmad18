@@ -14,7 +14,7 @@
 </p>
 
 ---
-🙋‍♂️ **About Me**  <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" align="right" />
+🙋‍♂️ **About Me**  <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" align="right" /><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Frontend Tech
+### 🧰 Frontend Tech <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <!--
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -36,7 +36,7 @@
 
 ---
 
-<!--## 🧰 Backend Tech
+<!--## 🧰 Backend Tech <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <div align="center" style="display:flex; gap:18px; padding:15px 20px; background: rgba(255,255,255,0.06); border-radius:0px; backdrop-filter: blur(12px); border:1px solid rgba(255,255,255,0.15); justify-content:center;">
   <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=nodejs&theme=dark&size=38" />
   <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=express&theme=dark&size=38" />
@@ -45,7 +45,7 @@
 
 --- -->
 
-### 🧰 Tools
+### 🧰 Tools <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <!--
 [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -56,7 +56,7 @@
 
 ---
 
-### 🌍 Connect with Me
+### 🌍 Connect with Me <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejaz-ahmad18/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/authenticejaz/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
@@ -64,7 +64,7 @@
 
 
 
-<!--### 📌 Pinned Projects
+<!--### 📌 Pinned Projects <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <p align="left">
   <a href="https://github.com/ejaz-ahmad18/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=Portfolio&theme=tokyonight" />
@@ -79,7 +79,7 @@
 
 --- -->
 ---
-### 🧠 Certifications & Expertise
+### 🧠 Certifications & Expertise <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 - 🥇 Courses completed Frontend & Backend Domination — Sheryians Coding School  
 - 📦 Skilled in building **scalable CMS**, **AI-integrated apps**, and **e-commerce platforms**  
 - 🎓 Certified WordPress Designer — WsCube Tech  
@@ -87,7 +87,7 @@
 - ⚙️ Dev Tools: VS Code, Cursor, Git, Github  
 ---
 
-### ⚡ Fun Facts
+### ⚡ Fun Facts <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 ```bash
 🧃 Favourite Stack: MERN  
 💻 Always coding, even in my dreams 😴  
@@ -95,7 +95,7 @@
 🌱 Currently learning: Advanced Socket.io & Real-time systems  
 ```
 ---
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 | 🔥 Streak | 🧠 Top Languages |
 |----------|-----------------|
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&layout=compact" /> |
@@ -103,12 +103,12 @@
 ---
 
 
-### 📬 Let's Collaborate
+### 📬 Let's Collaborate <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 If you're looking for someone to build, scale, or optimize your next project or startup —  
 I'm open to freelance work and collaborations.
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 📩 **Drop a message** → ejazahmadbh18@gmail.com  
-📎 **Portfolio** → www.ejazahmad.in
+📎 **Portfolio** → www.ejazahmad.in 
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
 
