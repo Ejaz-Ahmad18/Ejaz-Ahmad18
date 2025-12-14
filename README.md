@@ -7,19 +7,19 @@
   💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist
 </h3>
 
-##
+<!--##-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Crafting+Interactive+Web+Experiences;Building+Clean+%26+Responsive+Frontends;Designing+Modern+UI+Solutions;Exploring+MERN+Stack+%26+Modern+Frontend+Tools" />
 </p>
 
 ---
-### <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" alt="ejaz-ahmad18" /> </p>
-🙋‍♂️ About Me 
+🙋‍♂️ **About Me**  <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" align="right" />
+
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
-- 🌐 Visit my website → **[www.ejazahmad.in](https://www.ejazahmad.in)**
-- ✉️ Reach me anytime → **ejazahmadbh18@gmail.com**
+- 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in)
+- ✉️ Reach me anytime → ejazahmadbh18@gmail.com
 - 💬 Fun to work with and fast to deliver ⚡
 
 ---
