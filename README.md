@@ -55,7 +55,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/authenticejaz/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejazahmadbh18@gmail.com)
----
+
 
 
 <!--### 📌 Pinned Projects
@@ -72,7 +72,7 @@
 </p>
 
 --- -->
-
+---
 ### 🧠 Certifications & Expertise
 - 🥇 Courses completed Frontend & Backend Domination — Sheryians Coding School  
 - 📦 Skilled in building **scalable CMS**, **AI-integrated apps**, and **e-commerce platforms**  
@@ -89,14 +89,13 @@
 🌱 Currently learning: Advanced Socket.io & Real-time systems  
 ```
 ---
-
 ### 📊 GitHub Analytics
-##
-
-<p align="left">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18&" alt="ejaz-ahmad18" /></p>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&show_icons=true&locale=en&layout=compact" alt="ejaz-ahmad18" /></p>
+| 🔥 Streak | 🧠 Top Languages |
+|----------|-----------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&layout=compact" /> |
 
 ---
+
 
 ### 📬 Let's Collaborate
 If you're looking for someone to build, scale, or optimize your next project or startup —  
