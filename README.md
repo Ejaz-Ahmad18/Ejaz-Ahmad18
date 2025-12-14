@@ -1,7 +1,9 @@
 <!-- Profile Header -->
 <!-- ![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg) -->
-<h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist</h3>
+---
+ <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
+
+ <h3 align="center">💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Crafting+Interactive+Web+Experiences;Building+Clean+&+Responsive+Frontends;Designing+Modern+UI+Solutions;Exploring+MERN+Stack+%26+Modern+Frontend+Tools" />
