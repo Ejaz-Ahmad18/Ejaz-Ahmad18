@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <!-- ![logo](https://github.com/ejazahmad18/ejazahmad18/blob/main/Banner.jpg) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
+---
  <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
 
 <h3 align="center">
   💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist
-</h3><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
+</h3>
 
 <!--##-->
 
