@@ -104,12 +104,12 @@
 
 
 ### 📬 Let's Collaborate <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-If you're looking for someone to build, scale, or optimize your next project or startup —  
-I'm open to freelance work and collaborations.
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-📩 **Drop a message** → ejazahmadbh18@gmail.com  
-📎 **Portfolio** → www.ejazahmad.in 
+🤝 If you're looking for someone to build, scale, or optimize your next project or startup —  
+🧩 I'm open to freelance work and collaborations.
 
+📩 **Drop a message**--> ejazahmadbh18@gmail.com  
+📎 **Portfolio**----------> www.ejazahmad.in 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
 
 
