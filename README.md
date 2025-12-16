@@ -72,7 +72,7 @@
 🧩 I'm open to freelance work and collaborations.
 
 📩 **Drop a message**--> ejazahmadbh18@gmail.com  
-📎 **Portfolio**----------> ejazahmad18.netlify.app
+📎 **Portfolio**----------> https://ejazahmad18.netlify.app
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
 
