@@ -3,56 +3,39 @@
 ---
  <h1 align="center">👋 Hello there, I'm Ejaz Ahmad</h1>
 
-<h3 align="center">
-  💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist
-</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🧠 Frontend Developer | 📈 Frontend Specialist</h3>
 
-<!--##-->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Crafting+Interactive+Web+Experiences;Building+Clean+%26+Responsive+Frontends;Designing+Modern+UI+Solutions;Exploring+MERN+Stack+%26+Modern+Frontend+Tools" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Crafting+Interactive+Web+Experiences;Building+Clean+%26+Responsive+Frontends;Designing+Modern+UI+Solutions;Exploring+MERN+Stack+%26+Modern+Frontend+Tools"/></p>
 
 ---
-🙋‍♂️ **About Me**  <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" align="right" /><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
+🙋‍♂️ **About Me**  <img src="https://komarev.com/ghpvc/?username=ejaz-ahmad18&label=Profile%20views&color=0e75b6&style=flat" align="right" />
+   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 
-- 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
-- 👨‍💼 Helping agencies and businesses **scale their online presence**
--  💬 Fun to work with and fast to deliver ⚡
-<!-- - ✉️ Reach me anytime → ejazahmadbh18@gmail.com -->
-<!-- - 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in) -->
+   - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
+   - 👨‍💼 Helping agencies and businesses **scale their online presence**
+   -  💬 Fun to work with and fast to deliver ⚡
+   <!-- - ✉️ Reach me anytime → ejazahmadbh18@gmail.com -->
+   <!-- - 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in) -->
 ---
 
 ### 🧰 Frontend Tech <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-<!--
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) -->
-
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></p>
-
+  <p><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /></p>
+  <!-- <p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></p> -->
+  
 ---
 
-<!--## 🧰 Backend Tech <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-<div align="center" style="display:flex; gap:18px; padding:15px 20px; background: rgba(255,255,255,0.06); border-radius:0px; backdrop-filter: blur(12px); border:1px solid rgba(255,255,255,0.15); justify-content:center;">
-  <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=nodejs&theme=dark&size=38" />
-  <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=express&theme=dark&size=38" />
-  <img style="height:45px; width:45px; object-fit:contain; border-radius:0px;" src="https://skillicons.dev/icons?i=mongodb&theme=dark&size=38" />
-</div> 
-
---- -->
-
 ### 🧰 Tools <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-<!--
-[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) -->
-
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
-
-
+  <p><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" /></p>
+  <!-- <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p> -->
+  
 ---
 
 ### 🌍 Connect with Me <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
@@ -61,22 +44,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iam.ejazahmad)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejazahmadbh18@gmail.com)
 
-
-
-<!--### 📌 Pinned Projects <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-<p align="left">
-  <a href="https://github.com/ejaz-ahmad18/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=Portfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ejaz-ahmad18/Mini-Reels-Making">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=Mini-Reels-Making&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ejaz-ahmad18/JavaScript-Practice-question">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ejaz-ahmad18&repo=JavaScript-Practice-question&theme=tokyonight" />
-  </a>
-</p>
-
---- -->
 ---
 ### 🧠 Certifications & Expertise <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 - 🥇 Traine in Frontend & Backend — Sheryians Coding School  
@@ -98,9 +65,7 @@
 | 🔥 Streak | 🧠 Top Languages |
 |----------|-----------------|
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ejaz-ahmad18" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ejaz-ahmad18&layout=compact" /> |
-
 ---
-
 
 ### 📬 Let's Collaborate <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 🤝 If you're looking for someone to build, scale, or optimize your next project or startup —  
