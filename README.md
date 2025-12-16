@@ -18,10 +18,9 @@
 
 - 🔭 I'm building real-world projects using **HTML, CSS, JavaScript, and React**
 - 👨‍💼 Helping agencies and businesses **scale their online presence**
-- 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in)
-- ✉️ Reach me anytime → ejazahmadbh18@gmail.com
-- 💬 Fun to work with and fast to deliver ⚡
-
+-  💬 Fun to work with and fast to deliver ⚡
+<!-- - ✉️ Reach me anytime → ejazahmadbh18@gmail.com -->
+<!-- - 🌐 Visit my website → [www.ejazahmad.in](https://www.ejazahmad.in) -->
 ---
 
 ### 🧰 Frontend Tech <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
@@ -80,11 +79,11 @@
 --- -->
 ---
 ### 🧠 Certifications & Expertise <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
-- 🥇 Courses completed Frontend & Backend Domination — Sheryians Coding School  
-- 📦 Skilled in building **scalable CMS**, **AI-integrated apps**, and **e-commerce platforms**  
-- 🎓 Certified WordPress Designer — WsCube Tech  
-- 🥇 Certified SEO Professional  
-- ⚙️ Dev Tools: VS Code, Cursor, Git, Github  
+- 🥇 Traine in Frontend & Backend — Sheryians Coding School  
+- 📦 Skilled in building **Scalable **, **Optimaztion**, and **e-commerce platforms**   
+- 🥇 SEO Professional  
+- ⚙️ Dev Tools: VS Code, Git, Github
+<!-- -  🎓 Certified WordPress Designer — WsCube Tech -->
 ---
 
 ### ⚡ Fun Facts <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
@@ -92,7 +91,7 @@
 🧃 Favourite Stack: MERN  
 💻 Always coding, even in my dreams 😴  
 🧩 Love breaking down big problems into small wins  
-🌱 Currently learning: Advanced Socket.io & Real-time systems  
+🌱 Currently learning: Mearn Full Stack Development 
 ```
 ---
 ### 📊 GitHub Analytics <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
@@ -108,7 +107,7 @@
 🧩 I'm open to freelance work and collaborations.
 
 📩 **Drop a message**--> ejazahmadbh18@gmail.com  
-📎 **Portfolio**----------> www.ejazahmad.in 
+📎 **Portfolio**----------> ejazahmad18.netlify.app
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" width="100%" />
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/></p>
 
